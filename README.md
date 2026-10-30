@@ -4,7 +4,7 @@
   <p><strong>Standalone Browser VPN Extension &amp; Native Android Mobile App (.apk) with 82+ Global Countries, Dynamic IP Rotation &amp; Interactive 3D Globe</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Android_App-V2.4.3-A855F7?style=flat-square" alt="App Version V2.4.3" />
-    <img src="https://img.shields.io/badge/Extension-V2.4.2-2563EB?style=flat-square" alt="Extension Version V2.4.2" />
+    <img src="https://img.shields.io/badge/Extension-V2.4.3-2563EB?style=flat-square" alt="Extension Version V2.4.3" />
     <img src="https://img.shields.io/badge/Countries-82%2B_Verified_%7C_246_ISO-10B981?style=flat-square" alt="82+ Countries" />
     <img src="https://img.shields.io/badge/Desktop-Chrome_%7C_Edge_%7C_Brave-38BDF8?style=flat-square" alt="Supported Browsers" />
     <img src="https://img.shields.io/badge/IP_Rotation-Dynamic_Per_Connect-F59E0B?style=flat-square" alt="Dynamic IP Rotation" />
@@ -24,9 +24,9 @@ Designed and engineered by **[Ayan Paul](https://ayanpaul.me)**, Lucifer Tunnel 
 
 | Package | File | Platform | Version |
 | :--- | :--- | :--- | :--- |
-| **Android Mobile App** | `Lucifer-Tunnel.apk` | Android 7.0 – Android 15+ | `V2.4.3` (Build `1056`) |
-| **Browser Extension** | `Lucifer-Tunnel-Extension.zip` | Chrome, Brave, Edge, Opera (MV3) | `V2.4.2` |
-| **Live OTA & Update Manifest** | `version.json` | Auto-Update & OTA Routing Sync | App `V2.4.3` / Ext `V2.4.2` |
+| **Android Mobile App** | `Lucifer-Tunnel.apk` | Android 7.0 – Latest | `V2.4.3` (Build `1060`) |
+| **Browser Extension** | `Lucifer-Tunnel-Extension.zip` | Chrome, Brave, Edge, Opera (MV3) | `V2.4.3` |
+| **Live OTA & Update Manifest** | `version.json` | Auto-Update & OTA Routing Sync | App `V2.4.3` / Ext `V2.4.3` |
 
 ---
 
