@@ -1,0 +1,25 @@
+{
+  "appVersion": "2.4.3",
+  "appDisplayVersion": "V2.4.3",
+  "appVersionCode": 1056,
+  "extensionVersion": "2.4.2",
+  "extensionDisplayVersion": "V2.4.2",
+  "version": "2.4.2",
+  "displayVersion": "V2.4.2",
+  "versionCode": 1056,
+  "extensionId": "jlcdjkgigfaomlmjkfcminfiaiablppf",
+  "extensionPackage": "Lucifer-Tunnel-Extension.zip",
+  "apkPackage": "Lucifer-Tunnel.apk",
+  "accessControl": {
+    "forceUpdateEnabled": false,
+    "forceAppUpdate": false,
+    "forceExtensionUpdate": false,
+    "minAppVersion": "0.0.0",
+    "minExtensionVersion": "0.0.0",
+    "minVersion": "0.0.0",
+    "lockTitle": "Mandatory Update Required",
+    "lockMessage": "This version of Lucifer Tunnel is no longer supported. Please update to the latest version to continue using the VPN."
+  },
+  "otaGatewayOverrides": {},
+  "updatedAt": "2026-10-30T05:03:28.314Z"
+}
